@@ -1,12 +1,12 @@
 #!/bin/bash
 
-                                    #####################
-                                    #                   #
-                                    #  ProtocolCreator  #
-                                    #   By TStudios     #
-                                    #   Version: 1.0    #
-                                    #                   #
-                                    #####################
+                                    ###########################
+                                    #                         #
+                                    #     ProtocolCreator     #
+                                    #       By TStudios       #
+                                    #   Version: 1.1 Pre-1    #
+                                    #                         #
+                                    ###########################
 
 kdialog --msgbox "THIS PROGRAM IS A DANGEROUS PROGRAM AND THE PROGRAMER WILL NOT BE RESPONSIBLE FOR ANY DAMAGE DONE!\n\nCopyright (c) 2018 TStudios All Rights Reserved."
 cd ~/.local/share/applications
@@ -140,19 +140,13 @@ echo -e \"
 $Programcode
 \" > Start.sh
 chmod 770 Start.sh"
-###################################################
-#                                                 #
-# Start of developement for this program: 24.5.18 #
-#             Release Date: 24.5.18               #
-#                                                 #
-###################################################
 
 kdialog --textinputbox "                               Credits & co                       " "
 
 
 Start of developement for this program: 24.5.18
-Release Date: 24.5.18
-Lines of Code: 174
+Release Date: 6.5.18
+Lines of Code: 173
 
 
 
@@ -161,7 +155,7 @@ Lines of Code: 174
 
 ProtocolCreator
 By: TStudios
-Version: 1.0
+Version: 1.1 Pre-1
 
 
 
